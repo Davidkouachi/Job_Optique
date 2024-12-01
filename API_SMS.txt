@@ -1,0 +1,16 @@
+URL : https://api-public-2.mtarget.fr/messages?username=joboptique&password=xxxxx&msisdn=%2b33xxxxxx&msg=test+api
+
+Login : joboptique
+
+Password : WF92rXbxVjN0
+
+Serviceid : 33804
+
+Sender : JOBOPTIQUE
+
+Accès Portal : https://portal.mtarget.fr
+
+Login Portal : joboptique@gmail.com
+
+
+Mot de passe oublié lors de la première connexion
